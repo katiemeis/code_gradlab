@@ -1,0 +1,101 @@
+ferdig_rotation/fouriers/fidock_source_code/fidock_source_code/src/r/Data.R
+ferdig_rotation/fouriers/fidock_source_code/fidock_source_code/src/r/Inc.R
+ferdig_rotation/fouriers/fidock_source_code/fidock_source_code/src/r/Matrix.R
+ferdig_rotation/fouriers/fidock_source_code/fidock_source_code/src/r/Plot.R
+ferdig_rotation/fouriers/fidock_source_code/fidock_source_code/src/r/Scanfeld.R
+ferdig_rotation/fouriers/fidock_source_code/fidock_source_code/src/r/Source.R
+ferdig_rotation/fouriers/fourier_transform_pb.R
+ferdig_rotation/gabes_CRC/Figure 1 Code v3.R
+ferdig_rotation/gabes_CRC/Final_TPFP_plotMike.R
+ferdig_rotation/gabes_CRC/Final_TPFP_plotMike_v2axes.R
+ferdig_rotation/gabes_CRC/GOfig/Step 7- GO Comparisons/GO Heatmap.R
+ferdig_rotation/gabes_CRC/heatmapfig/Gene Heatmap.R
+ferdig_rotation/gabes_CRC/heatmapfig/Gene Heatmap_ACorAnchor.R
+ferdig_rotation/gabes_CRC/plot_bothcutoffs.R
+ferdig_rotation/gabes_CRC/pval_figures_GrpA.R
+ferdig_rotation/gabes_CRC/pval_figures_grpB.R
+ferdig_rotation/gabes_CRC/true_positives_plot.R
+ferdig_rotation/GOslim/goslim_reformat.R
+ferdig_rotation/pB_data/Data/batch_effect/batch_effect.R
+ferdig_rotation/pB_data/Data/Preprocessing_Pipeline_BConly.R
+ferdig_rotation/pB_data/Data/stage/Staging by transcription.R
+ferdig_rotation/pB_data/degree_dist.R
+ferdig_rotation/pB_data/my_results/DE_code.R
+ferdig_rotation/pB_data/my_results/diff_gene_exp/differential_gene_expression.R
+ferdig_rotation/pB_data/my_results/DTWMIC/null_rewired.R
+ferdig_rotation/pB_data/my_results/DTWMIC/rewired_nets/rewired_PB58/annotate_by_regulon.R
+ferdig_rotation/pB_data/my_results/DTWMIC/rewired_nets/rewiring_code/rewiring_perms_DTWMIC.R
+ferdig_rotation/pB_data/my_results/DTWMIC/rewired_nets/rewiring_code/rewiring_perms_DTWMIC_CRC.R
+ferdig_rotation/pB_data/my_results/DTWMIC/rewired_nets/top_rewired_crosscheck.R
+ferdig_rotation/pB_data/my_results/DTWMIC/rewire_anchored.R
+ferdig_rotation/pB_data/my_results/DTWMIC/rewiring.R
+ferdig_rotation/pB_data/my_results/DTWMIC/test_method_set.R
+ferdig_rotation/pB_data/my_results/DTWMIC/wgcna/compare_to_regulon/neighbors_fisherstest.R
+ferdig_rotation/pB_data/my_results/DTWMIC/wgcna/peak_exp.R
+ferdig_rotation/pB_data/my_results/DTWMIC/wgcna/rewired_hardthreshold/annotate_by_regulon.R
+ferdig_rotation/pB_data/my_results/DTWMIC/wgcna/tanslation_genes.R
+ferdig_rotation/pB_data/my_results/DTWMIC/wgcna/wgcna.R
+ferdig_rotation/pB_data/my_results/DTWMIC/wgcna/wgcna_hardthreshold.R
+ferdig_rotation/pB_data/my_results/DTWMIC/wgcna/wgcna_pearson.R
+ferdig_rotation/pB_data/my_results/DTWMIC/wgcna/wgcna_together.R
+ferdig_rotation/pB_data/my_results/hcc_clinde-master/cal_medians.R
+ferdig_rotation/pB_data/my_results/hcc_clinde-master/CLINDE/wgcna_for_clinde.R
+ferdig_rotation/pB_data/my_results/hcc_clinde-master/hcc_clinde-master/cal_medians.R
+ferdig_rotation/pB_data/my_results/hcc_clinde-master/hcc_clinde-master/synthetic_misc_cases.R
+ferdig_rotation/pB_data/my_results/hcc_clinde-master/hcc_clinde-master/synthetic_small_cases_e.R
+ferdig_rotation/pB_data/my_results/hcc_clinde-master/synthetic_misc_cases.R
+ferdig_rotation/pB_data/my_results/hcc_clinde-master/synthetic_small_cases_e.R
+ferdig_rotation/pB_data/nettools_code.R
+ferdig_rotation/pB_data/parcor_pB.R
+ferdig_rotation/pB_data/plot_expression.R
+ferdig_rotation/pb_heatshock/DE at 37C/DE at 37C/netGO_figure_code.R
+ferdig_rotation/regulon_validation/Emily_GOenrich/GOenrichment.R
+ferdig_rotation/regulon_validation/Emily_GOenrich/pfal_clustering_Emily.R
+ferdig_rotation/regulon_validation/LOOCV_Actual/LOOCV Actual v2.R
+ferdig_rotation/regulon_validation/LOOCV_Actual/LOOCV Actual v3.R
+ferdig_rotation/regulon_validation/LOOCV_Actual/LOOCV Actual.R
+ferdig_rotation/regulon_validation/make_PID.R
+ferdig_rotation/regulon_validation/modularity/modularity.R
+ferdig_rotation/regulon_validation/network_construction.R
+ferdig_rotation/regulon_validation/network_manipulation.R
+ferdig_rotation/regulon_validation/new_curation/build_new_MI.R
+ferdig_rotation/regulon_validation/new_curation/build_new_pearson_network.R
+ferdig_rotation/regulon_validation/new_curation/data_curation_check.R
+ferdig_rotation/regulon_validation/new_go_Qi/testing_code/GeneGO.R
+ferdig_rotation/regulon_validation/new_go_Qi/testing_code/genes_with_terms_check.R
+ferdig_rotation/regulon_validation/new_go_Qi/testing_code/modularity_function_test.R
+ferdig_rotation/regulon_validation/original_nets/adalasso_clustering/mcl-14-137/scripts/mcxplotlines.R
+ferdig_rotation/regulon_validation/original_nets/adalasso_clustering/MCL_runs_adalasso.R
+ferdig_rotation/regulon_validation/original_nets/consensus_network/GO_cluster_distributions.R
+ferdig_rotation/regulon_validation/original_nets/consensus_network/make_consensus_network.R
+ferdig_rotation/regulon_validation/original_nets/consensus_network/MCL_clustering.R
+ferdig_rotation/regulon_validation/original_nets/consensus_network/mlc_software/mcl-14-137/scripts/mcxplotlines.R
+ferdig_rotation/regulon_validation/original_nets/consensus_network/Qis_analysis_pipeline/MCL_formatoutput.R
+ferdig_rotation/regulon_validation/original_nets/CRC_MCL_clustering/plot_prec_recall.R
+ferdig_rotation/regulon_validation/original_nets/curating_networks.R
+ferdig_rotation/regulon_validation/original_nets/gold_standards/edge_pc_toGoldStandard.R
+ferdig_rotation/regulon_validation/original_nets/gold_standards/rename_goldStandards.R
+ferdig_rotation/regulon_validation/original_nets/GO_file/get_GO_edgelist.R
+ferdig_rotation/regulon_validation/original_nets/GO_file/new_GO_map.R
+ferdig_rotation/regulon_validation/original_nets/GO_file/reduce_GO.R
+ferdig_rotation/regulon_validation/original_nets/modularity/modularity_function.R
+ferdig_rotation/regulon_validation/original_nets/modularity/plot_mod_results.R
+ferdig_rotation/regulon_validation/original_nets/plotting_script.R
+ferdig_rotation/regulon_validation/original_nets/precision_recall/plots_results.R
+ferdig_rotation/regulon_validation/original_nets/S3_calculator.R
+ferdig_rotation/regulon_validation/original_nets/semantic_similarity.R
+ferdig_rotation/regulon_validation/original_nets/union_network/make_union_net.R
+ferdig_rotation/regulon_validation/parcor.R
+ferdig_rotation/regulon_validation/permute_networks.R
+ferdig_rotation/regulon_validation/series_thresholds/checkGOagain.R
+ferdig_rotation/regulon_validation/series_thresholds/modularity.R
+ferdig_rotation/regulon_validation/series_thresholds/modularity_function.R
+ferdig_rotation/regulon_validation/series_thresholds/modularity_null_distributions_old/plot_distributions.R
+ferdig_rotation/regulon_validation/series_thresholds/modularity_perms.R
+ferdig_rotation/regulon_validation/series_thresholds/mod_perms/plot_distributions.R
+ferdig_rotation/regulon_validation/series_thresholds/plotting_script.R
+ferdig_rotation/regulon_validation/series_thresholds/S3_calculator.R
+ferdig_rotation/regulon_validation/series_thresholds/tp_tn_fp_fn.R
+ferdig_rotation/regulon_validation/testing_files/testset_nettools_pearson.R
+ferdig_rotation/regulon_validation/testing_files/testset_parcor.R
+ferdig_rotation/test_Mok/Correlations.R
